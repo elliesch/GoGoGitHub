@@ -27,4 +27,4 @@ To add this repository to your own computer, follow these steps:
    
 7. Your code is now on your github page! Make a pull request, by going to www.github.com/elliesch/GoGoGithub and pressing the <a href="https://github.com/elliesch/GoGoGitHub/pulls">pull request</a> tab.
 
-8. Congrats you are a GoGoGithub collaborator!
+8. Congrats you are a GoGoGithub collaborator!!!
